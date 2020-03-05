@@ -1,5 +1,10 @@
+# .gitignore
+
 /.idea
 /.settings
 /.project
 /.cproject
 /.vscode
+**/tmp/
+*.tmp
+*~
